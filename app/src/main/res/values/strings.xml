@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WallPaper_red</string>
+    <string name="message_dialog">欢迎使用小红书!\n我们将通过《用户协议》和《隐私政 策》，帮助您了解我们为您提供的服务、我们如何处理个人信息以及您享有的权利。我们会严格按照相关法律法规要求，采取各种安全措施来保护您的个人信息。 我们重视青少年/儿童的个人信息保护，若您是未满18周岁的未成年人，请在监护人的指导下阅读并同意以上协议以及《儿童/青少年个人信息保护规则》 点击“同意”按钮，表示您已知情并同意以 上协议和以下约定</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>

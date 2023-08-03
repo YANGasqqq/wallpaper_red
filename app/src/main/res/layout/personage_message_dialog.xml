@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+   android:layout_margin="10dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="10dp"
+    app:strokeColor="@android:color/transparent"
+     app:cardElevation="5dp"
+    android:layout_height="wrap_content">
+  <LinearLayout
+
+      android:layout_margin="15dp"
+      android:orientation="vertical"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content">
+      <TextView
+          android:textColor="@color/black"
+          android:textSize="16sp"
+          android:text="权限使用说明"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"/>
+      <TextView
+          android:layout_marginTop="10dp"
+          android:text="当您使用APP时，会在发送站内消息时访问通知访问权限。不授权上述权限，不影响APP其他功能使用。"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"/>
+  </LinearLayout>
+</com.google.android.material.card.MaterialCardView>
